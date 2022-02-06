@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wichapol
 - 👀 I’m interested in Creative coder
-- 🌱 I’m currently learning at junior software developer at Generation Thailand
+- 🌱 I’m currently learning junior software developer at Generation Thailand
 - 📫 How to reach me wichapol.44424@gmail.com
 
 <!---
